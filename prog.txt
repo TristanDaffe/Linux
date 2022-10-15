@@ -1,0 +1,56 @@
+// snap
+vs code
+discord
+gitkraken
+git
+vlc
+brave
+notion
+amberol
+virtualbox
+
+// autre
+jetbrains toolbox
+docker + docker desktop
+
+// extension
+arcmenu
+blur my shell
+coverflow alt-tab
+dash to dock
+media controls
+pop shell (voir gith)
+user themes
+
+// tweaks
+appearance 
+    application : yaru-blue-dark
+    cursor : vimix-cursors
+    icons : yaru-purple
+    shell : yaru-purple-dark
+    sound : yaru
+
+font
+    interface text : roboto regular 12
+    document text : roboto regular 12
+    monospace text : ubuntu mono regular 13
+    legacy window titles : roboto medium 11
+
+// autre
+dock 
+    file
+    brave
+    discord
+    notion
+
+start menu
+    libre office writer
+    libre office calc
+    libre office impress
+    libre office math  
+    ambreol
+    notion
+    gitkraken
+    vscode
+    intelliji idea
+    rider
