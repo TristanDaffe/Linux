@@ -18,17 +18,19 @@ arcmenu
 blur my shell
 coverflow alt-tab
 dash to dock
-media controls
 pop shell (voir gith)
 user themes
+aylur's widgets
+bluetooth quick connect
 
 // tweaks
 appearance 
     application : yaru-blue-dark
     cursor : vimix-cursors
     icons : yaru-purple
-    shell : yaru-purple-dark
+    shell : orchis-shell-mod
     sound : yaru
+    legacy applications : yaru-purple
 
 font
     interface text : roboto regular 12
